@@ -1,3 +1,7 @@
+---
+title: "Tech Mining: applying text mining methods to technical documents"
+date: 2021-02-22
+---
 Tech Mining: Practical approach to exploit science and technology (S&T) information resources
 The tech mining approach has 3 key elements:
 * Data: acquired from  R&D publications (Science Citation Index, INSPEC, MEDLINE) and patent abstract databases (Derwent World Patent Index, Delphion)
