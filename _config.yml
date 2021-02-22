@@ -1,7 +1,7 @@
 ---
 title: "Tech Mining: applying text mining methods to technical documents"
 date: 2021-02-22
----
+
 author: Soujanya Dash
 email: soujda2000@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -17,3 +17,4 @@ github_username:  Soujanya0506 # DO NOT include the @ character, or else the bui
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
